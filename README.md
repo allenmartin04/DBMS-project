@@ -1,1 +1,1 @@
-# DBMS-project
+# Bus management app
